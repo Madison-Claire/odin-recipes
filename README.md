@@ -1,1 +1,1 @@
-# odin-recipes
+This project will include a list of recipes and is intended to demonstrate my HTML skills as learned through The Odin Project. 
